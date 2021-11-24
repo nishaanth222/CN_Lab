@@ -1,1 +1,1 @@
-# CN_Lab
+# CN-Lab
